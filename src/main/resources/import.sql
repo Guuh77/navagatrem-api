@@ -1,0 +1,43 @@
+-- Estações da Linha 8
+INSERT INTO estacao (nome, descricao) VALUES ('Itapevi', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Engenheiro Cardoso', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Sagrado Coração', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Jandira', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Jardim Silveira', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Jardim Belval', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Barueri', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Antonio João', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Santa Terezinha', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Carapicuíba', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('General Miguel Costa', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Quitaúna', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Comandante Sampaio', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Osasco (Linha 8)', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Presidente Altino (Linha 8)', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Imperatriz Leopoldina', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Domingos de Moraes', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Lapa', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Palmeiras-Barra Funda', 'Estação de trem da Linha 8');
+INSERT INTO estacao (nome, descricao) VALUES ('Júlio Prestes', 'Estação de trem da Linha 8');
+
+-- Estações da Linha 9
+INSERT INTO estacao (nome, descricao) VALUES ('Osasco (Linha 9)', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Presidente Altino (Linha 9)', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Ceasa', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Vila-Lobos-Jaguaré', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Cidade Universitária', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Pinheiros', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Hebraica-Rebouças', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Cidade Jardim', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Vila Olímpia', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Berrini', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Morumbi', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Granja Julieta', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('João Dias', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Santo Amaro', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Socorro', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Jurubatuba', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Autódromo', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Primavera-Interlagos', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Grajaú', 'Estação de trem da Linha 9');
+INSERT INTO estacao (nome, descricao) VALUES ('Mendes-Vila Natal', 'Estação de trem da Linha 9');
